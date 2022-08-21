@@ -960,7 +960,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] DFS with adjacency matrix (recursive)
     - [ ] DFS with adjacency matrix (iterative with stack)
     - [x] BFS with adjacency list
-    - [ ] BFS with adjacency matrix
+    - [x] BFS with adjacency matrix
     - [ ] single-source shortest path (Dijkstra)
     - [ ] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
